@@ -1,5 +1,12 @@
 {
   "require": {
     "guzzlehttp/guzzle": "7.4.0"
+  },
+  "config": {
+    "policy": {
+      "advisories": {
+        "block": false
+      }
+    }
   }
 }
